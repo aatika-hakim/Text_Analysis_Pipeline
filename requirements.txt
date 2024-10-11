@@ -1,2 +1,9 @@
 streamlit
 openai
+langgraph
+langchain
+python-dotenv
+IPython
+langchain_groq
+langchain_core
+requests
