@@ -79,3 +79,7 @@ text-analysis-pipeline/
 ├── README.md            # Project documentation (this file)
 └── .env.example         # Example file for environment variables (e.g.,OPENAI_API_KEY, GROQ_API_KEY)
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
